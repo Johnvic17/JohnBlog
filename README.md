@@ -1,5 +1,4 @@
-# JohnBlog
-📝 JohnBlog
+# 📝JohnBlog
 
 JohnBlog is a personal blog project built with React, allowing users to create, view, edit, and delete posts with authentication powered by Firebase. The project focuses on delivering a clean and intuitive experience for both guests and logged-in users.
 
